@@ -6,10 +6,15 @@ This project aims to develop an advanced AI-driven identity verification system 
 _______________________________________________________________________________________
 
 Outcomes:
+
 •	Enhanced Identity Verification: Use of AI and deep learning to automate and improve identity checks for KYC/AML.
+
 •	Fraudulent Address Detection: Robust mechanisms for verifying the authenticity of AADHAR addresses.
+
 •	Improved Compliance: Automatic checks aligned with regulatory frameworks to prevent fraud and money laundering.
+
 •	Cost Reduction: Minimization of manual effort and associated costs through automation and intelligent validation.
+
 _______________________________________________________________________________________
 
 Module 1: Data Collection and Preprocessing for Identity Verification
